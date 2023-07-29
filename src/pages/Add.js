@@ -34,7 +34,7 @@ function Add() {
         <input type="text" className="border" ref={desRef}></input>
         <button
           type="button"
-          className="bg-blue-500 text-white px-2 rounded"
+          className="bg-blue-300 text-white px-2 rounded"
           onClick={handleAdd}
         >
           add
